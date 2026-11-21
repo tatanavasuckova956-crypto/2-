@@ -1,7 +1,6 @@
 package ru.samsung.gamestudio.screens;
 
-import static ru.samsung.gamestudio.MyGdxGame.SCR_HEIGHT;
-import static ru.samsung.gamestudio.MyGdxGame.SCR_WIDTH;
+
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
